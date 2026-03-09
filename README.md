@@ -250,7 +250,7 @@ wrangler pages deploy /Users/alexa/GTM_DEPLOYMENT_PACKAGE \
 **Powered by:**
 - Claude Sonnet 4.5 (claude-sonnet-4-5-20250929)
 - BlackRoad Memory System
-- The Golden Rule (Check [MEMORY], Check [CODEX], Update [MEMORY])
+- The Golden Rule (Check [MEMORY], Check [BLACKROAD OS], Update [MEMORY])
 
 ---
 
