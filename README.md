@@ -288,3 +288,13 @@ wrangler pages deploy /Users/alexa/GTM_DEPLOYMENT_PACKAGE \
 **Next Action:** Deploy to GitHub and Cloudflare
 
 🌌 **The Road is Endless. The Code is Eternal.**
+
+---
+
+**Proprietary Software — BlackRoad OS, Inc.**
+
+This software is proprietary to BlackRoad OS, Inc. Source code is publicly visible for transparency and collaboration. Commercial use, forking, and redistribution are prohibited without written authorization.
+
+**BlackRoad OS — Pave Tomorrow.**
+
+*Copyright 2024-2026 BlackRoad OS, Inc. All Rights Reserved.*
